@@ -9,3 +9,22 @@ button {
 .ac {
   color: red;
 }
+.calcu{
+  background:red;
+  width:300px;
+  height:25px;
+  border:5px dashed #58FAD0;
+  align:center;
+}
+.resultado{
+  background:gray;
+  border:5px solid black;
+}
+.numeros{
+  background:#0793B5;
+  border:5px solid #B50907;
+}
+.operadores{
+  background:#F38415 ;
+  border:5px solid #52DF06;
+}
