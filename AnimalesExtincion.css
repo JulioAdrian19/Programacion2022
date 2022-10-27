@@ -1,0 +1,17 @@
+body{
+background:#06DF6C;
+}
+
+th{
+background:red; 
+border:2.4px solid black;
+}
+
+td{
+background:peachpuff; 
+border:2.4px solid #58FAD0;
+}
+
+p {
+   text-align:right;
+}
