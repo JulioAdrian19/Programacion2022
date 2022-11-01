@@ -16,6 +16,19 @@ width:250px;
 height:200px;
 }
 
-p {
-   text-align:right;
+h3{
+color:blue;
+text-size:25px;
+font-weight:bold;
+word-spacing:4px;
+line-height:20px;
+font-family:Comic Sans MS;
 }
+
+.pregunta{
+border:2.4px dashed #25FAD1;
+width:400px;
+height:200px;
+text-align:center;
+}
+
