@@ -3,13 +3,17 @@ background:#06DF6C;
 }
 
 th{
-background:red; 
+background:yellow; 
 border:2.4px solid black;
+width:250px;
+height:50px;
 }
 
 td{
 background:peachpuff; 
 border:2.4px solid #58FAD0;
+width:250px;
+height:200px;
 }
 
 p {
