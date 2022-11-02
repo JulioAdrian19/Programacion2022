@@ -25,6 +25,12 @@ line-height:20px;
 font-family:Comic Sans MS;
 }
 
+ol{
+text-size:20px;
+word-spacing:4px;
+line-height:20px;
+font-family:Comic Sans MS;
+}
 .pregunta{
 border:2.4px dashed #25FAD1;
 width:400px;
@@ -32,3 +38,6 @@ height:200px;
 text-align:center;
 }
 
+.resaltar{
+font-weight:bold;
+}
