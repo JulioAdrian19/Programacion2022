@@ -1,14 +1,13 @@
 body{
 background-image:URL(bioma-cambiante.jpg);
-background-repeat:repeat-7;
+background-repeat:repeat-y;
 background-size:100% 45%
 }
 
-th{
-background:yellow; 
-border:2.4px solid black;
-width:250px;
-height:50px;
+marquee{
+background-image:URL(entorno-marquee.jpg);
+background-repeat:repeat-x;
+background-size:400px 200px
 }
 
 td{
@@ -33,6 +32,7 @@ word-spacing:4px;
 line-height:20px;
 font-family:Comic Sans MS;
 }
+
 .pregunta{
 border:2.4px dashed #25FAD1;
 width:400px;
