@@ -1,5 +1,7 @@
 body{
-background:#06DF6C;
+background-image:URL(bioma-cambiante.jpg);
+background-repeat:repeat-7;
+background-size:100% 45%
 }
 
 th{
