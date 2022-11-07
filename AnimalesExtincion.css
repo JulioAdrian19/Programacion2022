@@ -13,6 +13,7 @@ background:yellow;
 border:2.4px solid black;
 width:250px;
 height:50px;
+text-align:center;
 }
 
 td{
@@ -20,6 +21,7 @@ background:peachpuff;
 border:2.4px solid #58FAD0;
 width:250px;
 height:200px;
+text-align:center;
 }
 
 h3{
@@ -29,6 +31,7 @@ font-weight:bold;
 word-spacing:4px;
 line-height:20px;
 font-family:Comic Sans MS;
+text-align:center;
 }
 
 ol{
@@ -41,6 +44,7 @@ font-family:Comic Sans MS;
 border:2.4px dashed #25FAD1;
 width:400px;
 height:200px;
+text-align:center;
 text-align:center;
 }
 
